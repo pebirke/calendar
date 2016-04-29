@@ -1,4 +1,7 @@
- from time import sleep, strftime
+#This program is a calendar. It will allow you to 
+#view the calendar, add an event, update an existing
+#event, or delete an existing event. 
+from time import sleep, strftime
 USER_FIRST_NAME = "Peter"
 calendar = {}
 def welcome():
